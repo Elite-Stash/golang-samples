@@ -1,4 +1,4 @@
-name: Go
+name: lets Go
 on:
   push:
     branches:
